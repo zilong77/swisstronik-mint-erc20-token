@@ -2,7 +2,7 @@
 
 Testnet : [HERE](https://www.swisstronik.com/testnet2/dashboard)
 
-## **DYOR USE BURNER WALLET!!
+## **DYOR USE BURNER WALLET!!**
 
 ## Steps
 
